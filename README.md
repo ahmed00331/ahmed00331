@@ -1,24 +1,74 @@
-<h1 align="center">Hi 👋, I'm ahmed rabie</h1>
-<h3 align="center">A Junior Flutter Developer</h3>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Rabie!+😎;" />
+</div>
 
-- 🔭 I’m currently working on [attendance app](https://github.com/ahmed00331/Attendance-app)
+<br>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ahmed00331?tab=repositories](https://github.com/ahmed00331?tab=repositories)
+## 🙋‍♂️ About Me:
 
-- 📫 How to reach me **ahmedr00002@gmail.com**
+- 🔭 I’m currently working as a **Mobile Application Developer 📱**.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NRQr07YwfgHo4GO1rjMt-xGGDlRNUW42/view?usp=sharing](https://drive.google.com/file/d/1NRQr07YwfgHo4GO1rjMt-xGGDlRNUW42/view?usp=sharing)
+- 🌱 I’m currently learning **Advanced Flutter**.
 
-- ⚡ Fun fact **I dream about errors and how I can solve it**
+- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/ahmed00331?tab=repositories)**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmedrabie007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedrabie007" height="30" width="40" /></a>
-<a href="https://fb.com/أحمد ربيع" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="أحمد ربيع" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmed_rabie2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed_rabie2" height="30" width="40" /></a>
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
+## 🚀 Languages and Tools:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase," />
+    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman" /><br>
+</div>
+
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
+## 📊 My Stats:
+
+<p align="center">
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ahmed00331&theme=gotham" alt="GitHub Streak" /></a>
 </p>
+<a href="https://github.com/AmmarAgeeza/github-readme-stats"><img alt="AmmarAgeeza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AmmarAgeeza&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/AmmarAgeeza/github-readme-stats"><img alt="AmmarAgeeza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarAgeeza&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmed00331&theme=gotham)](https://git.io/streak-stats)
+## 🤝 Connect With Me:
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/ahmedrabie007/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+  <a href="mailto:ahmedrabea500@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</div>
+
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
+## 💜 Views and Followers:
+
+<a href="https://github.com/ahmed00331/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ahmed00331">
+</a>
+<a href="https://github.com/ahmed00331?tab=followers"><img src="https://img.shields.io/github/followers/ahmed00331?label=Followers&style=social" alt="GitHub Badge"></a>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
+</h3>
+
+<br/>
