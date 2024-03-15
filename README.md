@@ -35,8 +35,8 @@
 <p align="center">
    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ahmed00331&theme=gotham" alt="GitHub Streak" /></a>
 </p>
-<a href="https://github.com/AmmarAgeeza/github-readme-stats"><img alt="AmmarAgeeza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AmmarAgeeza&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/AmmarAgeeza/github-readme-stats"><img alt="AmmarAgeeza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarAgeeza&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/ahmed00331/github-readme-stats"><img alt="ahmed00331's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmed00331&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/ahmed00331/github-readme-stats"><img alt="ahmed00331's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed00331&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br>
 <div align="center">
