@@ -1,5 +1,8 @@
+<div id="top"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/ahmed00331/ahmed00331/blob/main/assets/header.png"></div>
+
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Rabie!+😎;" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Ahmed-Rabie;She/her;Computer+Engineering+Student;Egyption+Futter+Dev;Car+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Egyption Futter developer, Power Metal lover"></a>
 </div>
 
 <br>
